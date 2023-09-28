@@ -1,0 +1,14 @@
+{
+  "name": "stepmotor28byj-48_raspberrypi_nodejs",
+  "version": "1.0.0",
+  "description": "Script allowing to operate Step Motor 28BYJ-48 by Raspberry Pi with NodeJS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Lekszycki",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^6.0.3"
+  }
+}
